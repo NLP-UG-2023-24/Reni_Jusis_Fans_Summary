@@ -1,6 +1,8 @@
 # PHONOLOGY 
 ## DEFINITION 
 
+# Semantics
+
 ## Chapter 5.4.1
 
 In chapter 5.4.1, the focus is on the organization of word meaning in the mental lexicon. The mental lexicon, similar to a comprehensive dictionary, stores words known as "lexemes" and facilitates their use in language production and comprehension. The chapter explores the role of word relations in defining meaning. It emphasizes that words are interconnected in a network-like structure within the mental lexicon, and these connections play a crucial role in determining word meaning. Additionally, the chapter explores the properties of sense relations and connotations, highlighting how these influence the network of word meanings. In general, chapter 5.4.1 provides insight into the organization of word meanings within the mental lexicon, emphasizing the interconnectedness of words and the role of word relations in shaping meaning.
