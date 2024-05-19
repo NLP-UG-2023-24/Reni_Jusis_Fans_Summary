@@ -1,13 +1,21 @@
-# Phonetics
-## Summary 
-The first chapter discusses the intricacies of speech production and pronunciation, particularly in the context of learning new languages. It highlights that while speaking is mostly automatic in one's native language, learning a foreign language requires conscious effort due to unfamiliar sounds and articulations. For instance, German learners of English struggle with sounds like "lisping" in words such as "bath" and "therapy" due to the absence of such sounds in German. Similarly, English learners of German face difficulties with unfamiliar vowels.
-
-Also, the field of phonetics is introduced, which deals with the study of speech sounds, including articulatory phonetics, acoustic phonetics  and auditory phonetics. What is more, the text emphasizes the importance of distinguishing between spelling and pronunciation, noting that spelling does not always reflect sound structure accurately. It introduces the International Phonetic Alphabet (IPA) as a standardized system for representing speech sounds, providing examples of IPA symbols for British English sounds. Additionally, it mentions variations in transcription systems, such as those used in North American English studies.
-
-# Phonology 
-## Definition 
+# PHONOLOGY 
+## DEFINITION 
 
 # Semantics
+## Semantics: Exploring the Complexity of Meaning in Language
+
+[Semantics](https://en.wikipedia.org/wiki/Semantics) is the branch of linguistics dedicated to studying how words and sentences convey meaning. Although it may seem straightforward, semantics involves complex relationships between words, their referents (the objects or concepts they represent), and the mental processes that underpin understanding. One key aspect of semantics is the arbitrary nature of words. There is no inherent connection between a word's sound or structure and its meaning. For example, the English word "box" is "Kiste" in German and "caja" in Spanish, demonstrating that different languages use unique sequences of sounds to represent the same object.While dictionary definitions provide a basic description, they do not fully capture the richness of meaning. Context plays a crucial role in semantics. A word like "box" can refer to a variety of objects depending on the context and usage. Similarly, terms like "container" and "thingy" can refer to box-like objects, but they carry different connotations and are used in different situations. This highlights the limitations of viewing semantics as a simple one-to-one mapping between words and objects. The complexity of semantics is further illustrated by the role of concepts—abstract mental categories that help us classify and interpret words. Concepts are cognitive constructs that exist independently of language, but they shape our understanding of linguistic expressions. For example, while a cardboard box and a shopping cart could both be considered "containers," their suitability for the term "box" varies based on conceptual categorization.
+
+## Concepts and Their Properties
+
+Concepts play a pivotal role in semantics. They are mental categories that help us classify and categorize objects. A dictionary definition, like the one for "box," outlines specific properties that describe a concept's essential characteristics, such as "a container for putting things in, especially one with four stiff sides." However, concepts often have fuzzy boundaries, allowing for some flexibility in classification. While some objects clearly fit the definition of a "box," others, like a shopping cart, might be described as "some kind of box, but..." This ambiguity highlights that concepts are not always rigid and can straddle boundaries.
+
+## Compositional Meaning: Building from Parts
+
+Compositional meaning arises when the meaning of a linguistic unit is derived from the meanings of its individual components and the way they are combined. This can be seen in sentences and phrases where each word contributes to the overall meaning. For example, in the sentence "We would like to apologize for any inconvenience caused," the meaning can be broken down into parts, with each word or phrase adding to the overall interpretation. The meaning of "we" identifies the subject, "would like" indicates a desire, and "apologize for any inconvenience caused" expresses regret for causing inconvenience. This structure exemplifies compositional meaning, where the whole is the sum of its parts.
+
+## Non-Compositional Meaning: Idioms and Ambiguity
+Non-compositional meaning occurs when the meaning of a linguistic unit cannot be directly derived from its individual parts. Idiomatic expressions, like "kick the bucket," mean something entirely different from the literal interpretation of their words. Similarly, compounds such as "dog house" can be ambiguous, suggesting a house for dogs, a house shaped like a dog, or other interpretations. This ambiguity highlights that not all meanings are compositional. In addition to compositionality, the concept of semantic scope plays a role in meaning. This refers to how the meaning of a morpheme can extend beyond the base to which it is formally attached. For example, in the phrase "the blue boxes looked terrific," the plural suffix in "boxes" applies to the entire noun phrase, not just the word "box." Similarly, the past tense suffix in "looked" can extend to the entire verb phrase "look terrific." This concept of scope is critical in understanding how meaning operates at different levels of linguistic structure. While semantic meaning focuses on the meaning derived from linguistic elements, pragmatic meaning considers the communicative purpose of a sentence. This relies on context, cultural knowledge, and situational factors. For example, the sentence "We would like to apologize for any inconvenience caused" can imply an apology when seen on a construction site sign but might have a different meaning in a corporate context. Pragmatic meaning explores this broader context and the inferences drawn from it.
 
 ## Chapter 5.4.1
 
@@ -35,4 +43,4 @@ Here's a selected few examples of hypernyms and hyponyms:
 * Sense relations (like hyponymy and oppositeness),
 * Connotation
 
-By exploring the organization of word meanings in the mental lexicon, the chapter underscores the network of semantic relationships that shape our understanding of language and how words are interconnected based on their meanings.
+ By exploring the organization of word meanings in the mental lexicon, the chapter underscores the network of semantic relationships that shape our understanding of language and how words are interconnected based on their meanings.
