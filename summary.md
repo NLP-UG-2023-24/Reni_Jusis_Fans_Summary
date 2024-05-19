@@ -43,4 +43,4 @@ Here's a selected few examples of hypernyms and hyponyms:
 * Sense relations (like hyponymy and oppositeness),
 * Connotation
 
- By exploring the organization of word meanings in the mental lexicon, the chapter underscores the network of semantic relationships that shape our understanding of language and how words are interconnected based on their meanings.
+By exploring the organization of word meanings in the mental lexicon, the chapter underscores the network of semantic relationships that shape our understanding of language and how words are interconnected based on their meanings.
