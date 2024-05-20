@@ -27,12 +27,14 @@ Compositional meaning arises when the meaning of a linguistic unit is derived fr
 ## Non-Compositional Meaning: Idioms and Ambiguity
 Non-compositional meaning occurs when the meaning of a linguistic unit cannot be directly derived from its individual parts. Idiomatic expressions, like "kick the bucket," mean something entirely different from the literal interpretation of their words. Similarly, compounds such as "dog house" can be ambiguous, suggesting a house for dogs, a house shaped like a dog, or other interpretations. This ambiguity highlights that not all meanings are compositional. In addition to compositionality, the concept of semantic scope plays a role in meaning. This refers to how the meaning of a morpheme can extend beyond the base to which it is formally attached. For example, in the phrase "the blue boxes looked terrific," the plural suffix in "boxes" applies to the entire noun phrase, not just the word "box." Similarly, the past tense suffix in "looked" can extend to the entire verb phrase "look terrific." This concept of scope is critical in understanding how meaning operates at different levels of linguistic structure. While semantic meaning focuses on the meaning derived from linguistic elements, pragmatic meaning considers the communicative purpose of a sentence. This relies on context, cultural knowledge, and situational factors. For example, the sentence "We would like to apologize for any inconvenience caused" can imply an apology when seen on a construction site sign but might have a different meaning in a corporate context. Pragmatic meaning explores this broader context and the inferences drawn from it.
 
-## Chapter 5.4.1
+# Chapter 5
+
+## Words and other words
 
 In **chapter 5.4.1**, the focus is on the organization of word meaning in the mental lexicon. The [mental lexicon](https://en.wikipedia.org/wiki/Mental_lexicon), similar to a comprehensive dictionary, stores words known as _[lexemes](https://en.wikipedia.org/wiki/Lexeme)_ and facilitates their use in language production and comprehension. The chapter explores the role of word relations in defining meaning. It emphasizes that words are interconnected in a network-like structure within the mental lexicon, and these connections play a crucial role in determining word meaning. Additionally, the chapter explores the properties of sense relations and connotations, highlighting how these influence the network of word meanings. In general, **chapter 5.4.1** provides insight into the organization of word meanings within the mental lexicon, emphasizing the interconnectedness of words and the role of word relations in shaping meaning.
 
 
-## Chapter 5.4.2
+## Same or different?
 
 **Chapter 5.4.2** discusses the semantic relations between words within the [mental lexicon](https://en.wikipedia.org/wiki/Mental_lexicon). It explores how words are interconnected through various semantic relationships such as [hyponymy](https://en.wikipedia.org/wiki/Hypernymy_and_hyponymy) and oppositeness, attempting to explain how these sense relations differ from connotation and contribute to the organization of word meanings. The chapter highlights the crucial role that _semantic relations_ play in linking words within the mental lexicon, emphasizing how these connections create a structured network of word meanings. By examining how semantic relations shape the relationships between different words, the chapter provides insights into the web of connections that exist within the mental lexicon, highlighting the significance of these semantic relationships in organizing and defining word meanings.
 
@@ -46,7 +48,7 @@ Here's a selected few examples of hypernyms and hyponyms:
 | Vehicle | Car, truck, bicycle | A car is a type of vehicle |
 | Clothing | Shirt, pants, dress | A shirt is a type of clothing |
 
-## Chapter 5.5
+## Conclusion
 
 **Chapter 5.5** focuses on the discipline of [semantics](https://en.wikipedia.org/wiki/Semantics), which is concerned with the meaning of linguistic expressions. It highlights that meaning is a relational property that describes the connection between the form of a linguistic expression and a mental concept, distinct from the relation linking linguistic expressions and the objects, events, or situations they refer to. The chapter discusses the different levels at which meaning arises, distinguishing between compositional and non-compositional types of meaning based on whether the meaning involves the combination of parts of the expression. It delves into how meaning is organized in the mental lexicon, likening it to a vast network where lexemes are interconnected through various semantic links, such as:
 
