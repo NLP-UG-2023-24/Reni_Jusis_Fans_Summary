@@ -28,6 +28,7 @@ The complexity of semantics is further illustrated by the role of concepts—abs
 ## Concepts and Their Properties
 
 Concepts play a pivotal role in semantics.
+
 ![An image which explains a concept](./example.png)
 
 Concepts are **mental categories** that help us classify and categorize objects. A dictionary definition, like the one for _box,_ outlines specific properties that describe a concept's essential characteristics, such as _a container for putting things in, especially one with four stiff sides_. However, concepts often have fuzzy boundaries, allowing for some flexibility in classification. While some objects clearly fit the definition of a "box," others, like a shopping cart, might be described as _some kind of box, but..._. This ambiguity highlights that concepts are not always rigid and can straddle boundaries.
